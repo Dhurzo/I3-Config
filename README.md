@@ -12,8 +12,13 @@ I3Blocks was replaced by tint2 panel so to use this config install tint2 and pla
 
 sudo apt-get install tint2
 
+Work computer:
+
 ![alt text](https://github.com/Dhurzo/I3-I3Blocks-configs/blob/master/scrot.png?raw=true)
 
+Personal laptop:
+
+![alt text](https://github.com/Dhurzo/I3-I3Blocks-configs/blob/master/scrot-lap.png?raw=true)
 
 ----------
 
