@@ -1,8 +1,8 @@
 
-Dhurzo's I3 config
+Dhurzo's I3-GAPS  config
 ===================
 
-This is my I3 ~~and I3 blocks config~~ Tint2 config.
+This is my I3-GAPS ~~and I3 blocks config~~ Tint2 config.
 
 Note: replace /home/juan with your home path
 

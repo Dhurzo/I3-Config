@@ -124,7 +124,7 @@ bindsym XF86MonBrightnessUp exec xbacklight -inc 20 # increase screen brightness
 bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightness
 
 # lockscreen and exit 
-bindsym $mod+Shift+b exec lock -gp #uses i3lock-fancy
+bindsym $mod+Shift+b exec /usr/local/bin/lock
 bindsym $mod+Shift+e exec i3-exit  #uses i3-exit ported from Crunchbang
 
 # suspend
@@ -192,3 +192,12 @@ client.urgent #d33682 #d33682 #fdf6e3 #dc322f
 exec --no-startup-id nm-applet
 exec --no-startup-id nitrogen --restore
 exec --no-startup-id tint2
+exec --no-startup-id volumeicon
+
+##gaps (Remove this part if you don't have i3-gaps installed)
+smart_gaps on
+gaps inner 10
+gaps outer 0
+smart_borders on
+for_window [class="^.*"] border pixel 1
+##
