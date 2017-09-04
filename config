@@ -201,3 +201,10 @@ gaps outer 0
 smart_borders on
 for_window [class="^.*"] border pixel 1
 ##
+
+## Menutray ##
+exec --no-startup-id /opt/menutray -g -i
+
+## Comptom ##
+exec --no-startup-id compton
+#
