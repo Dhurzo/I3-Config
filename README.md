@@ -11,14 +11,14 @@ Note: replace /home/juan with your home path
 I3Blocks was replaced by tint2 panel so to use this config install tint2 and place the new tint2rc in your config.
 
 sudo apt-get install tint2
+sudo apt-get install compton
 
-Work computer:
+install : https://github.com/trizen/menutray
+
+
+Work computer (old):
 
 ![alt text](https://github.com/Dhurzo/I3-I3Blocks-configs/blob/master/scrot.png?raw=true)
-
-Personal laptop:
-
-![alt text](https://github.com/Dhurzo/I3-I3Blocks-configs/blob/master/scrot-lap.png?raw=true)
 
 ----------
 
