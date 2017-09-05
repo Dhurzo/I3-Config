@@ -16,7 +16,7 @@ sudo apt-get install compton
 install : https://github.com/trizen/menutray
 
 
-Work computer (old):
+Work computer:
 
 ![alt text](https://github.com/Dhurzo/I3-I3Blocks-configs/blob/master/scrot.png?raw=true)
 
