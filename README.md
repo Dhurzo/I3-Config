@@ -12,11 +12,10 @@ I3Blocks was replaced by tint2 panel so to use this config install tint2 and pla
 
 sudo apt-get install tint2
 sudo apt-get install compton
-
 install : https://github.com/trizen/menutray
 
 
-Work computer:
+Work computer (without compton for now):
 
 ![alt text](https://github.com/Dhurzo/I3-I3Blocks-configs/blob/master/scrot.png?raw=true)
 
