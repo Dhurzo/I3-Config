@@ -16,7 +16,7 @@ install : https://github.com/trizen/menutray
 
 Update: Back to I3Blocks + Rofi rice
 
-Work computer (without compton for now):
+Work computer: 
 
 ![alt text](https://github.com/Dhurzo/I3-I3Blocks-configs/blob/master/scrot.png?raw=true)
 
