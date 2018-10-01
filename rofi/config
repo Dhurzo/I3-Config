@@ -1,0 +1,29 @@
+rofi.color-window: argb:c82d303b, #7c8389, #1d1f21
+rofi.fg:                             #5294E2
+rofi.bg:                             #5d729f
+rofi.fg-active:                      #34405a
+rofi.fg-urgent:                      #34405a
+rofi.hlfg-active:                    #5e73a0
+rofi.hlfg-urgent:                    #5e73a0
+rofi.bg-active:                      #34405a
+rofi.bg-urgent:                      #34405a
+rofi.hlbg-active:                    #5d729f
+rofi.hlbg-urgent:                    #5d729f
+rofi.bgalt:                          #5671a0
+rofi.hlfg:                           #34405a
+rofi.hlbg:                           #34405a
+rofi.bc:                             #789ee1
+
+! State:           'bg',     'fg',     'bgalt',  'hlbg',   'hlfg'
+rofi.color-normal: argb:c82d303b,  #FFFFFF,  #353944,  #5294E2,  #FFFFFF
+rofi.color-normal: argb:c82d303b,  #FFFFFF,  #353944,  #5294E2,  #FFFFFF
+rofi.color-normal: argb:c82d303b,  #FFFFFF,  #353944,  #5294E2,  #FFFFFF
+
+rofi.font                            Monospace 12
+rofi.location                        0
+rofi.padding:                        30
+rofi.levenshtein-sort:               true
+rofi.case-sensitive:                 false
+rofi.fuzzy:                          true
+rofi.hide-scrollbar:                 true
+
